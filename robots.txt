@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-a5a71k.yoursingles.online/sitemap.xml
